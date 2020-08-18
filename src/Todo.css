@@ -1,0 +1,29 @@
+.mapAlign{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+  
+  background: white;
+
+  
+}
+
+
+.subtitle{
+	color: lightgray;
+
+}
+
+.btnAlign{
+	display: flex;
+	flex: 1;
+}
+
+.statusCheck{
+	  background-image: linear-gradient(to right, rgb(170, 233, 170), rgb(155, 229, 211) , #00CCFF);
+	  width: 20%;
+	}
+
+.card{
+	width: 80%;
+}
