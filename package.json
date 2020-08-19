@@ -2,8 +2,7 @@
   "name": "wellness",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://italianate-death.000webhost.com/",
- 
+  "homepage": "https://Darsh38.github.io/wellness",
   "dependencies": {
     "@sandstreamdev/react-swipeable-list": "^0.6.1",
     "@testing-library/jest-dom": "^4.2.4",
